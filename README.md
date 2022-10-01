@@ -1,6 +1,6 @@
 # HackerRank - 30 Days of Code
 
-Here is the solutions for (HackerRank's 30-day challenge)[https://www.hackerrank.com/domains/tutorials/30-days-of-code] problems.
+Here is the solutions for [HackerRank's 30-day challenge](https://www.hackerrank.com/domains/tutorials/30-days-of-code) problems.
 
 You can find the questions and the codes I wrote below.
 
