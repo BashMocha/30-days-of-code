@@ -10,4 +10,5 @@ You can find the questions and the codes I wrote below.
 * Day 3: Intro to Conditional Statements. | [Problem](https://www.hackerrank.com/challenges/30-conditional-statements/problem?isFullScreen=true) | [Solution](https://github.com/CheesyFrappe/30-days-of-code/blob/main/3%20-%20Intro%20to%20Conditional%20Statements/Solution.java)
 * Day 4: Class vs. Instance. | [Problem](https://www.hackerrank.com/challenges/30-class-vs-instance/problem?isFullScreen=true) | [Solution](https://github.com/CheesyFrappe/30-days-of-code/blob/main/4%20-%20Class%20vs%20Instance/Person.java)
 * Day 5: Loops. | [Problem](https://www.hackerrank.com/challenges/30-loops/problem?isFullScreen=true) | [Solution](https://github.com/CheesyFrappe/30-days-of-code/blob/main/5%20-%20Loops/Solution.java)
+* Day 6: Let's Review. | [Problem](https://www.hackerrank.com/challenges/30-review-loop/problem?isFullScreen=true) | [Solution](https://github.com/CheesyFrappe/30-days-of-code/blob/main/6%20-%20Let's%20Review/Solution.java)
 
