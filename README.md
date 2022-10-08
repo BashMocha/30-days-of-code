@@ -11,4 +11,5 @@ You can find the questions and the codes I wrote below.
 * Day 4: Class vs. Instance. | [Problem](https://www.hackerrank.com/challenges/30-class-vs-instance/problem?isFullScreen=true) | [Solution](https://github.com/CheesyFrappe/30-days-of-code/blob/main/4%20-%20Class%20vs%20Instance/Person.java)
 * Day 5: Loops. | [Problem](https://www.hackerrank.com/challenges/30-loops/problem?isFullScreen=true) | [Solution](https://github.com/CheesyFrappe/30-days-of-code/blob/main/5%20-%20Loops/Solution.java)
 * Day 6: Let's Review. | [Problem](https://www.hackerrank.com/challenges/30-review-loop/problem?isFullScreen=true) | [Solution](https://github.com/CheesyFrappe/30-days-of-code/blob/main/6%20-%20Let's%20Review/Solution.java)
+* Day 7: Arrays. | [Problem](https://www.hackerrank.com/challenges/30-arrays/problem?isFullScreen=true) | [Solution](https://github.com/CheesyFrappe/30-days-of-code/blob/main/7%20-%20Arrays/Solution.java)
 
