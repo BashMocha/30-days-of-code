@@ -13,3 +13,16 @@ You can find the questions and the codes I wrote below.
 * Day 6: Let's Review. | [Problem](https://www.hackerrank.com/challenges/30-review-loop/problem?isFullScreen=true) | [Solution](https://github.com/CheesyFrappe/30-days-of-code/blob/main/6%20-%20Let's%20Review/Solution.java)
 * Day 7: Arrays. | [Problem](https://www.hackerrank.com/challenges/30-arrays/problem?isFullScreen=true) | [Solution](https://github.com/CheesyFrappe/30-days-of-code/blob/main/7%20-%20Arrays/Solution.java)
 * Day 8: Dictionaries and Maps. | [Problem](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem) | [Solution](https://github.com/CheesyFrappe/30-days-of-code/blob/main/8%20-%20Dictionaries%20and%20Maps/Solution.java)
+* Day 9: Recursion. | [Problem](https://www.hackerrank.com/challenges/30-recursion/problem?isFullScreen=true) | [Solution](https://github.com/CheesyFrappe/30-days-of-code/blob/main/9%20-Recursion/Solution.java)
+* Day 10: BinaryNumbers. | [Problem](https://www.hackerrank.com/challenges/30-binary-numbers/problem?isFullScreen=true) |
+[Solution](https://github.com/CheesyFrappe/30-days-of-code/blob/main/10%20-%20Binary%20Numbers/Solution.java)
+* Day 11: 2D Arrays. | [Problem](https://www.hackerrank.com/challenges/30-2d-arrays?isFullScreen=true) |
+[Solution](https://github.com/CheesyFrappe/30-days-of-code/tree/main/11%20-%202D%20Arrays)
+* Day 12: Inheritance. | [Problem](https://www.hackerrank.com/challenges/30-inheritance/problem?isFullScreen=true) |
+[Solution](https://github.com/CheesyFrappe/30-days-of-code/tree/main/12%20-%20Inheritance)
+* Day 13: Abstract Classes. | [Problem](https://www.hackerrank.com/challenges/30-abstract-classes/problem?isFullScreen=true) |
+[Solution](https://github.com/CheesyFrappe/30-days-of-code/tree/main/13%20-%20Abstract%20Classes)
+* Day 14: Scope. | [Problem](https://www.hackerrank.com/challenges/30-scope/problem?isFullScreen=true) |
+[Solution](https://github.com/CheesyFrappe/30-days-of-code/tree/main/14%20-%20Scope)
+
+
