@@ -24,5 +24,8 @@ You can find the questions and the codes I wrote below.
 [Solution](https://github.com/CheesyFrappe/30-days-of-code/tree/main/13%20-%20Abstract%20Classes)
 * Day 14: Scope. | [Problem](https://www.hackerrank.com/challenges/30-scope/problem?isFullScreen=true) |
 [Solution](https://github.com/CheesyFrappe/30-days-of-code/tree/main/14%20-%20Scope)
+* Day 15: Linked List. | [Problem](https://www.hackerrank.com/challenges/30-linked-list/problem) |
+[Solution](https://github.com/CheesyFrappe/30-days-of-code/tree/main/15%20-%20Linked%20List)
+
 
 
