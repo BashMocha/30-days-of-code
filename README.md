@@ -26,6 +26,8 @@ You can find the questions and the codes I wrote below.
 [Solution](https://github.com/CheesyFrappe/30-days-of-code/tree/main/14%20-%20Scope)
 * Day 15: Linked List. | [Problem](https://www.hackerrank.com/challenges/30-linked-list/problem) |
 [Solution](https://github.com/CheesyFrappe/30-days-of-code/tree/main/15%20-%20Linked%20List)
+* Day 16: Exceptions. | [Problem](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem?isFullScreen=true) |
+[Solution](https://github.com/CheesyFrappe/30-days-of-code/blob/main/16%20-%20Exceptions/Solution.java)
 
 
 
