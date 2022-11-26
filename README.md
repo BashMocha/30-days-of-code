@@ -28,6 +28,29 @@ You can find the questions and the codes I wrote below.
 [Solution](https://github.com/CheesyFrappe/30-days-of-code/tree/main/15%20-%20Linked%20List)
 * Day 16: Exceptions. | [Problem](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem?isFullScreen=true) |
 [Solution](https://github.com/CheesyFrappe/30-days-of-code/blob/main/16%20-%20Exceptions/Solution.java)
-
-
-
+* Day 17: More Exceptions. | [Problem](https://www.hackerrank.com/challenges/30-more-exceptions/problem?isFullScreen=true) |
+[Solution](https://github.com/CheesyFrappe/30-days-of-code/tree/main/17%20-%20More%20Exceptions)
+* Day 18: Queues and Stacks. | [Problem](https://www.hackerrank.com/challenges/30-queues-stacks/problem?isFullScreen=true) |
+[Solution](https://github.com/CheesyFrappe/30-days-of-code/tree/main/18%20-%20Queues%20and%20Stacks)
+* Day 19: Interfaces. | [Problem](https://www.hackerrank.com/challenges/30-interfaces/problem?isFullScreen=true) |
+[Solution](https://github.com/CheesyFrappe/30-days-of-code/tree/main/19%20-%20Interfaces)
+* Day 20: Sorting. | [Problem](https://www.hackerrank.com/challenges/30-sorting/problem?isFullScreen=true) |
+[Solution](https://github.com/CheesyFrappe/30-days-of-code/tree/main/20%20-%20Sorting)
+* Day 21: Generics. | [Problem](https://www.hackerrank.com/challenges/30-generics/problem?isFullScreen=true) |
+[Solution](https://github.com/CheesyFrappe/30-days-of-code/tree/main/21%20-%20Generics)
+* Day 22: BST. | [Problem](https://www.hackerrank.com/challenges/30-binary-search-trees/problem?isFullScreen=true) |
+[Solution](https://github.com/CheesyFrappe/30-days-of-code/tree/main/22%20-%20BST)
+* Day 23: BST Lever-Order. | [Problem](https://www.hackerrank.com/challenges/30-binary-trees/problem?isFullScreen=true) |
+[Solution](https://github.com/CheesyFrappe/30-days-of-code/tree/main/23%20-%20BST%20Lever%20Order)
+* Day 24: More Linked Lists. | [Problem](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem?isFullScreen=true) |
+[Solution](https://github.com/CheesyFrappe/30-days-of-code/tree/main/24%20-%20More%20Linked%20Lists)
+* Day 25: Time Complexity. | [Problem](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem?isFullScreen=true) |
+[Solution](https://github.com/CheesyFrappe/30-days-of-code/tree/main/25%20-%20Time%20Complexity)
+* Day 26: Nested Logic. | [Problem](https://www.hackerrank.com/challenges/30-nested-logic/problem?isFullScreen=true) |
+[Solution](https://github.com/CheesyFrappe/30-days-of-code/tree/main/26%20-%20Nested%20Logic)
+* Day 27: Testing. | [Problem](https://www.hackerrank.com/challenges/30-testing/problem?isFullScreen=true) |
+[Solution](https://github.com/CheesyFrappe/30-days-of-code/tree/main/27%20-%20Testing)
+* Day 28: RegEx, Patterns. | [Problem](https://www.hackerrank.com/challenges/30-regex-patterns/problem?isFullScreen=true) |
+[Solution](https://github.com/CheesyFrappe/30-days-of-code/tree/main/28%20-%20RegEx%2C%20Patterns)
+* Day 29: Bitwise AND. | [Problem](https://www.hackerrank.com/challenges/30-bitwise-and/problem?isFullScreen=true) |
+[Solution](https://github.com/CheesyFrappe/30-days-of-code/tree/main/29%20-%20Bitwise%20AND)
